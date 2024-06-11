@@ -1,0 +1,14 @@
+/Users/starboy/Repos/DotNET/practice/bin/Debug/net9.0/practice
+/Users/starboy/Repos/DotNET/practice/bin/Debug/net9.0/practice.deps.json
+/Users/starboy/Repos/DotNET/practice/bin/Debug/net9.0/practice.runtimeconfig.json
+/Users/starboy/Repos/DotNET/practice/bin/Debug/net9.0/practice.dll
+/Users/starboy/Repos/DotNET/practice/bin/Debug/net9.0/practice.pdb
+/Users/starboy/Repos/DotNET/practice/obj/Debug/net9.0/practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/starboy/Repos/DotNET/practice/obj/Debug/net9.0/practice.AssemblyInfoInputs.cache
+/Users/starboy/Repos/DotNET/practice/obj/Debug/net9.0/practice.AssemblyInfo.cs
+/Users/starboy/Repos/DotNET/practice/obj/Debug/net9.0/practice.csproj.CoreCompileInputs.cache
+/Users/starboy/Repos/DotNET/practice/obj/Debug/net9.0/practice.dll
+/Users/starboy/Repos/DotNET/practice/obj/Debug/net9.0/refint/practice.dll
+/Users/starboy/Repos/DotNET/practice/obj/Debug/net9.0/practice.pdb
+/Users/starboy/Repos/DotNET/practice/obj/Debug/net9.0/practice.genruntimeconfig.cache
+/Users/starboy/Repos/DotNET/practice/obj/Debug/net9.0/ref/practice.dll
